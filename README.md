@@ -1,6 +1,4 @@
-# AiringGo
-
-> 五子棋AI实现：[http://ursb.me/AiringGo](http://ursb.me/AiringGo)
+# artificial intelligence
 
 ### 技术报告
 - UI：Canvas
